@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666912100776",
+    "project_id": "rntodo-32f63",
+    "storage_bucket": "rntodo-32f63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666912100776:android:39862fcfdf7ee4871ecd9d",
+        "android_client_info": {
+          "package_name": "com.rntodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLfw6ctT8gZca2iBFfLZZ-SPnYO_vToI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
