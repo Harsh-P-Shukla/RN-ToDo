@@ -1,5 +1,7 @@
 # React Native Todo (TypeScript)
 
+CAN USE APP BY DOWNLOADING FROM "https://drive.google.com/file/d/1xSuNuX3w-_G6AxdiIrgR9Tx8dnpsCOxB/view?usp=sharing" HERE
+
 A small React Native CLI starter that demonstrates a todo list with local authentication, persistent state, and a smart sorting option.
 
 ## Features
